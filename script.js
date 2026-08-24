@@ -5,3 +5,4 @@ function soma() {
     let valor = a + b
     return console.log(valor)
 }
+
